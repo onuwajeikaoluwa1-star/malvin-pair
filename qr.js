@@ -161,7 +161,7 @@ showAdAttribution: true
             }
         }
     }
-    await ICAN_XD_PAIR_CODE();
+    await MALVIN_XD_PAIR_CODE();
 });
 setInterval(() => {
     console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
